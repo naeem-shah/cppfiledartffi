@@ -1,0 +1,7 @@
+# ninja log v5
+0	60	1688675794	CMakeFiles/api_util.dir/Users/naeem/Desktop/Work/Projects/dartffi/ios/Classes/api_util.cpp.o	e69e98eabd7186c6
+60	146	1688675794	/Users/naeem/Desktop/Work/Projects/dartffi/build/app/intermediates/cxx/Debug/4za1ll6q/obj/x86_64/libapi_util.so	3a181403744f3ff5
+0	54	1688703835	CMakeFiles/api_util.dir/Users/naeem/Desktop/Work/Projects/dartffi/ios/Classes/api_util.cpp.o	e69e98eabd7186c6
+54	148	1688703835	/Users/naeem/Desktop/Work/Projects/dartffi/build/app/intermediates/cxx/Debug/4za1ll6q/obj/x86_64/libapi_util.so	3a181403744f3ff5
+0	53	1688704429	CMakeFiles/api_util.dir/Users/naeem/Desktop/Work/Projects/dartffi/ios/Classes/api_util.cpp.o	e69e98eabd7186c6
+54	145	1688704429	/Users/naeem/Desktop/Work/Projects/dartffi/build/app/intermediates/cxx/Debug/4za1ll6q/obj/x86_64/libapi_util.so	3a181403744f3ff5

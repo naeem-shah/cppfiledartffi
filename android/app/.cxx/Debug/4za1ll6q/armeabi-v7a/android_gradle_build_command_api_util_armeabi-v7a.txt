@@ -1,0 +1,7 @@
+Executable : /Users/naeem/Library/Android/sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/Users/naeem/Desktop/Work/Projects/dartffi/android/app/.cxx/Debug/4za1ll6q/armeabi-v7a
+api_util
+jvmArgs : 
+

@@ -1,0 +1,92 @@
+{
+	"cmake" : 
+	{
+		"generator" : 
+		{
+			"multiConfig" : false,
+			"name" : "Ninja"
+		},
+		"paths" : 
+		{
+			"cmake" : "/Users/naeem/Library/Android/sdk/cmake/3.18.1/bin/cmake",
+			"cpack" : "/Users/naeem/Library/Android/sdk/cmake/3.18.1/bin/cpack",
+			"ctest" : "/Users/naeem/Library/Android/sdk/cmake/3.18.1/bin/ctest",
+			"root" : "/Users/naeem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18"
+		},
+		"version" : 
+		{
+			"isDirty" : false,
+			"major" : 3,
+			"minor" : 18,
+			"patch" : 1,
+			"string" : "3.18.1-g262b901",
+			"suffix" : "g262b901"
+		}
+	},
+	"objects" : 
+	[
+		{
+			"jsonFile" : "codemodel-v2-70bd770ac69398b54438.json",
+			"kind" : "codemodel",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 1
+			}
+		},
+		{
+			"jsonFile" : "cache-v2-ed923cec20f1ce18cf66.json",
+			"kind" : "cache",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 0
+			}
+		},
+		{
+			"jsonFile" : "cmakeFiles-v1-4ec251f896e3b3368eba.json",
+			"kind" : "cmakeFiles",
+			"version" : 
+			{
+				"major" : 1,
+				"minor" : 0
+			}
+		}
+	],
+	"reply" : 
+	{
+		"client-agp" : 
+		{
+			"cache-v2" : 
+			{
+				"jsonFile" : "cache-v2-ed923cec20f1ce18cf66.json",
+				"kind" : "cache",
+				"version" : 
+				{
+					"major" : 2,
+					"minor" : 0
+				}
+			},
+			"cmakeFiles-v1" : 
+			{
+				"jsonFile" : "cmakeFiles-v1-4ec251f896e3b3368eba.json",
+				"kind" : "cmakeFiles",
+				"version" : 
+				{
+					"major" : 1,
+					"minor" : 0
+				}
+			},
+			"codemodel-v2" : 
+			{
+				"jsonFile" : "codemodel-v2-70bd770ac69398b54438.json",
+				"kind" : "codemodel",
+				"version" : 
+				{
+					"major" : 2,
+					"minor" : 1
+				}
+			}
+		}
+	}
+}
